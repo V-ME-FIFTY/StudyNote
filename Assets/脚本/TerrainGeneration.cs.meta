@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cd078d0c35681fe4190f3eb2defa03e6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tileAtlas: {fileID: 11400000, guid: 0029493876e22e14987539c72bdccc53, type: 2}
+  - tileClass: {instanceID: 0}
+  - noiseTexture: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

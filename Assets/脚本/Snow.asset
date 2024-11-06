@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9a3ce9508614e94bb8941576b56eb32, type: 3}
+  m_Name: Snow
+  m_EditorClassIdentifier: 
+  stone: {fileID: 11400000, guid: 3b47e5f7f430a2045b1297ed70bd6242, type: 2}
+  deepStone: {fileID: 11400000, guid: a8780c40a8c0675439e29832ae89d262, type: 2}
+  dirt: {fileID: 11400000, guid: ae77dfbf2e37ef34597e782a61c0a10e, type: 2}
+  surface: {fileID: 11400000, guid: 6366c478744240f45be340abd8a30c7c, type: 2}
+  coal: {fileID: 11400000, guid: e949be12e3aa0e0469c90c6bbf8f9ec8, type: 2}
+  iron: {fileID: 11400000, guid: d7bdabd7da2ce334e8a09cd94ad55a9b, type: 2}
+  gold: {fileID: 11400000, guid: be3d3cc59f3737341a236d0612a1b30e, type: 2}
+  diamond: {fileID: 11400000, guid: e7ed7a7077d9a834d9404e6ec8e59088, type: 2}
+  ruby: {fileID: 11400000, guid: 6dc0ecd683ab4f34d9d46f81195a031d, type: 2}
+  superRuby: {fileID: 11400000, guid: 07970dc90f521024e92e2431e0eaa37d, type: 2}
+  silver: {fileID: 11400000, guid: 81b520caba43db64096ab89df75b6b06, type: 2}
+  copper: {fileID: 11400000, guid: 27f23cf55da714541b974821b163e1a6, type: 2}
+  dirt1: {fileID: 11400000, guid: 9a9b39581744e0a48955f7b632a986f3, type: 2}
+  log: {fileID: 11400000, guid: 739a12dea9048f9449d9acea29f920af, type: 2}
+  leaf: {fileID: 11400000, guid: a7518b27f705417489fcdb3605e57085, type: 2}
+  tallGrass: {fileID: 11400000, guid: 7839d6061cf90b748b86896c396cf453, type: 2}
+  water: {fileID: 11400000, guid: 5a3a1a36e85ee5f4da2a9cb820f2b06d, type: 2}
+  lava: {fileID: 11400000, guid: 44dad8d5489002c4ba4b3cc29156d1ab, type: 2}
