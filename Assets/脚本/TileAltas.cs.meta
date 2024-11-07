@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b9a3ce9508614e94bb8941576b56eb32
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - stone: {instanceID: 0}
+  - deepStone: {instanceID: 0}
+  - drit: {instanceID: 0}
+  - grass: {instanceID: 0}
+  - tileSprite: {instanceID: 0}
+  - log: {instanceID: 0}
+  - leaf: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

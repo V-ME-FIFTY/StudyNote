@@ -1,0 +1,250 @@
+﻿<items>
+    <Weapons>
+        <item id="1">
+            <name>Wooden Sword</name> 
+            <type>Weapon</type>
+            <description>A sword with a unique wooden handle and a simple edge.</description>
+            <stack>1</stack>
+            <price>100</price>
+            <Attributes>
+                <attack>8</attack>
+                <defense>0</defense>
+                <durability>50</durability>
+                <AttackSpeed>1.5</AttackSpeed>
+                <hp>0</hp>
+            </Attributes>
+        </item>
+        <item id="2">
+            <name>Stone Sword</name>
+            <type>Weapon</type>
+            <description>A sword with a unique stone handle and a simple edge.</description>
+            <stack>1</stack>
+            <price>200</price>
+            <Attributes>
+                <attack>12</attack>
+                <defense>0</defense>
+                <durability>60</durability>
+                <AttackSpeed>1.4</AttackSpeed>
+                <hp>0</hp>
+            </Attributes>
+        </item>
+        <item id="3">
+            <name>Bronze Sword</name>
+            <type>Weapon</type>
+            <description>A sword with a unique bronze handle and a simple edge.</description>
+            <stack>1</stack>
+            <price>300</price>
+            <Attributes>
+                <attack>15</attack>
+                <defense>0</defense>
+                <durability>70</durability>
+                <AttackSpeed>1.3</AttackSpeed>
+                <hp>0</hp>
+            </Attributes>
+        </item>
+        <item id="4">
+            <name>Iron Sword</name>
+            <type>Weapon</type>
+            <description>A sword with a unique iron handle and a sharp edge.</description>
+            <stack>1</stack>
+            <price>400</price>
+            <Attributes>
+                <attack>20</attack>
+                <defense>0</defense>
+                <durability>80</durability>
+                <AttackSpeed>1.2</AttackSpeed>
+                <hp>0</hp>
+            </Attributes>
+        </item>
+        <item id="5">
+            <name>Iron Heavy Sword</name>
+            <type>Weapon</type>
+            <description>A sword with a unique steel handle and a tough edge.</description>
+            <stack>1</stack>
+            <price>500</price>
+            <Attributes>
+                <attack>25</attack>
+                <defense>5</defense>
+                <durability>100</durability>
+                <AttackSpeed>1.0</AttackSpeed>
+                <hp>0</hp>
+            </Attributes>
+        </item>
+        <item id="6">
+            <name>Mithril Heavy Sword</name>
+            <type>Weapon</type>
+            <description>A sword with a unique mithril handle and a tough edge.</description>
+            <stack>1</stack>
+            <price>600</price>
+            <Attributes>
+                <attack>30</attack>
+                <defense>10</defense>
+                <durability>150</durability>
+                <AttackSpeed>1.1</AttackSpeed>
+                <hp>0</hp>
+            </Attributes>
+        </item>
+        <item id="7">
+            <name>Magic Sword</name>
+            <type>Weapon</type>
+            <description>A sword infused with magical powers, dealing extra damage.</description>
+            <stack>1</stack>
+            <price>800</price>
+            <Attributes>
+                <attack>35</attack>
+                <defense>5</defense>
+                <durability>90</durability>
+                <AttackSpeed>1.2</AttackSpeed>
+                <hp>0</hp>
+            </Attributes>
+        </item>
+        <item id="8">
+            <name>Diamond Sword</name>
+            <type>Weapon</type>
+            <description>A sword made of diamonds, extremely durable and sharp.</description>
+            <stack>1</stack>
+            <price>1000</price>
+            <Attributes>
+                <attack>45</attack>
+                <defense>10</defense>
+                <durability>200</durability>
+                <AttackSpeed>1.3</AttackSpeed>
+                <hp>0</hp>
+            </Attributes>
+        </item>
+        <item id="9">
+            <name>Gold Sword</name>
+            <type>Weapon</type>
+            <description>A sword made of gold, offering elegance and moderate durability.</description>
+            <stack>1</stack>
+            <price>900</price>
+            <Attributes>
+                <attack>38</attack>
+                <defense>5</defense>
+                <durability>90</durability>
+                <AttackSpeed>1.3</AttackSpeed>
+                <hp>0</hp>
+            </Attributes>
+        </item>
+    </Weapons>
+
+    <Shields>
+        <item id="10">
+            <name>Wooden Shield</name>
+            <type>Armor</type>
+            <description>A sturdy wooden shield for protection.</description>
+            <stack>1</stack>
+            <price>80</price>
+            <Attributes>
+                <attack>0</attack>
+                <defense>5</defense>
+                <durability>50</durability>
+                <AttackSpeed>0</AttackSpeed>
+            </Attributes>
+        </item>
+        <item id="11">
+            <name>Iron Shield</name>
+            <type>Armor</type>
+            <description>A shield made with unique iron materials.</description>
+            <stack>1</stack>
+            <price>120</price>
+            <Attributes>
+                <attack>0</attack>
+                <defense>15</defense>
+                <durability>90</durability>
+                <AttackSpeed>0</AttackSpeed>
+            </Attributes>
+        </item>
+        <item id="12">
+            <name>Iron Light Shield</name>
+            <type>Armor</type>
+            <description>A cute but useful shield.</description>
+            <stack>1</stack>
+            <price>150</price>
+            <Attributes>
+                <attack>0</attack>
+                <defense>20</defense>
+                <durability>120</durability>
+                <AttackSpeed>0</AttackSpeed>
+            </Attributes>
+        </item>
+        <item id="13">
+            <name>Magic Shield</name>
+            <type>Armor</type>
+            <description>A shield that reflects magical attacks.</description>
+            <stack>1</stack>
+            <price>200</price>
+            <Attributes>
+                <attack>0</attack>
+                <defense>25</defense>
+                <durability>100</durability>
+                <AttackSpeed>0</AttackSpeed>
+            </Attributes>
+        </item>
+        <item id="14">
+            <name>Dragon Scale Shield</name>
+            <type>Armor</type>
+            <description>A shield made from dragon scales, extremely tough.</description>
+            <stack>1</stack>
+            <price>300</price>
+            <Attributes>
+                <attack>0</attack>
+                <defense>35</defense>
+                <durability>150</durability>
+                <AttackSpeed>0</AttackSpeed>
+            </Attributes>
+        </item>
+        <item id="15">
+            <name>Bronze Shield</name>
+            <type>Armor</type>
+            <description>A sturdy shield made of bronze, offering good protection.</description>
+            <stack>1</stack>
+            <price>250</price>
+            <Attributes>
+                <attack>0</attack>
+                <defense>20</defense>
+                <durability>80</durability>
+                <AttackSpeed>0</AttackSpeed>
+            </Attributes>
+        </item>
+        <item id="16">
+            <name>Diamond Shield</name>
+            <type>Armor</type>
+            <description>A shield crafted from diamonds, boasts amazing durability.</description>
+            <stack>1</stack>
+            <price>400</price>
+            <Attributes>
+                <attack>0</attack>
+                <defense>40</defense>
+                <durability>200</durability>
+                <AttackSpeed>0</AttackSpeed>
+            </Attributes>
+        </item>
+        <item id="17">
+            <name>Mithril Shield</name>
+            <type>Armor</type>
+            <description>A lightweight yet strong shield made from mithril.</description>
+            <stack>1</stack>
+            <price>350</price>
+            <Attributes>
+                <attack>0</attack>
+                <defense>30</defense>
+                <durability>150</durability>
+                <AttackSpeed>0</AttackSpeed>
+            </Attributes>
+        </item>
+        <item id="18">
+            <name>Gold Shield</name>
+            <type>Armor</type>
+            <description>An elegant shield made of gold, offering moderate protection.</description>
+            <stack>1</stack>
+            <price>300</price>
+            <Attributes>
+                <attack>0</attack>
+                <defense>25</defense>
+                <durability>120</durability>
+                <AttackSpeed>0</AttackSpeed>
+            </Attributes>
+        </item>
+    </Shields>
+</items>
